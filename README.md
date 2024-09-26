@@ -27,3 +27,7 @@ He continued:
 > “Once you develop the required models, see if you can provide us the following information: for SellingPrice ranging between Rs 60 and Rs 150, incremented at Rs 5, predict the product(s) sales value at each selling price, and also let us know if any product ‘returns’ can be expected at those price points. It will be nice if you can create Table(s) and plot(s) to illustrate the results, and explain them.”
 
 > “Wish you the very best, all of you”
+
+### Solution:
+- I solve this in jupyter notebook.
+
