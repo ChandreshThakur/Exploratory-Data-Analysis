@@ -3,7 +3,7 @@
 This notbook  solves an interesting problem of Data Science domain, Where Problem is defined like that of industry standards, (somewhat)
 
 ### Problem statement:
-
+`
 You have applied for the post of a Data Scientist (DS) at FitCo Pvt. Ltd., a company with a pan-India presence, and
 engaged in the manufacture, marketing, sales, and support of fitness equipment. With Indians focussing on fitness
 goals, the company has been growing steadily since the Pandemic. As per the advertisement for the DS post, it now
@@ -27,4 +27,4 @@ He continued: “Once you develop the required models, see if you can provide us
 SellingPrice ranging between Rs 60 and Rs 150, incremented at Rs 5, predict the product(s) sales value at each selling
 price, and also let us know if any product ‘returns’ can be expected at those price points. It will be nice if you can
 create Table(s) and plot(s) to illustrate the results, and explain them.”
-“Wish you the very best, all of you”
+“Wish you the very best, all of you”`
