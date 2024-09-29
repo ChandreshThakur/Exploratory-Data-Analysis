@@ -31,4 +31,6 @@ He continued:
 ### Solution:
 - I solved this in jupyter notebook.
 - All clear explaining of what is asked and solution outline is in the jupyter notebook
+- The notebook utilises dataset that is in the main branch named `fico.csv`
+
 
