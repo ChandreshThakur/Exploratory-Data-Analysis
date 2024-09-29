@@ -29,5 +29,6 @@ He continued:
 > “Wish you the very best, all of you”
 
 ### Solution:
-- I solve this in jupyter notebook.
+- I solved this in jupyter notebook.
+- All clear explaining of what is asked and solution outline is in the jupyter notebook
 
